@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+.bg-primary-color {
+  background-color: #DD5531;
+}
+
+.primary-color {
+  background-color: #633C35; 
+}
+
+.bg-secondary-color {
+  background-color: #F3A93E;
+}
+
+.secondary-color {
+  background-color: #AA8773;
+}
+
+.custom-button.btn {
+  background-color: #97251D;
+}
+
+
+
