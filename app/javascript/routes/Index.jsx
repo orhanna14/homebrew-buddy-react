@@ -6,6 +6,8 @@ export default (
   <Router>
     <Switch>
     <Route path = "/" exact component={ Recipes } />
+  // This is for adding new paths, ex: /new add component you want to direct
+  // here
   </Switch>
   </Router>
 );

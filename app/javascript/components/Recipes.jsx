@@ -6,5 +6,8 @@ export default () => (
     <div className="container bg-secondary-color">
       <h1 className="primary-color">Listing all Recipes</h1>
     </div>
+    <Link to="/new" >
+        <div />
+      </Link>
   </div>
 );
